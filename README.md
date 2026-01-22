@@ -35,36 +35,64 @@
 Introduction, professional role, and location
 
 👤 About
+
 Overview of skills, work experience, and educational background
+
 Tab-based layout for clean content organization
+
 🛠️ Services
+
+
 📊 Data Analytics
+
 🎨 UI/UX Design
+
 📱 App Development
+
 📂 Portfolio
+
 📱 Social Media App
+
 🎬 Streaming Platform
+
 🛒 Virtual Shopping Store
 
 📞 Contact
+
 Contact form
+
 🌐 Social media links
+
 📄 CV download option
+
 🛠️ Tech Stack ⚙️
 
 HTML5 🧱
+
 Semantic structure and accessibility-focused markup
+
 CSS3 🎨
+
 Flexbox and Grid layouts
+
 Media queries for responsiveness
+
 Animations and transitions
+
 JavaScript ⚡
+
 Tab switching functionality
+
 Mobile navigation menu
+
 Form submission handling
+
 Font Awesome ⭐
+
 Scalable vector icons
+
 Google Apps Script ☁️
+
 Backend integration for contact form submissions
 
 📂 Project Structure 📁
@@ -90,10 +118,15 @@ Backend integration for contact form submissions
 │   └── work-3.png
 
 🎯 Purpose 🎯
-This project is designed to present my technical expertise 💻, design thinking 🎨, and hands-on project experience 🚀 in a professional and recruiter-friendly format. It serves as a central platform for showcasing my work, skills, and career profile for job applications and freelance opportunities.
 
-👤 Author 🙋‍♂️
+* This project is designed to present my technical expertise 💻, design thinking 🎨, and hands-on project experience.
+* 🚀 In a professional and recruiter-friendly format.
+* It serves as a central platform for showcasing my work, skills, and career profile for job applications and freelance opportunities.
+
+👤 Author 🙋‍♂️ 
+
 Sumit
+
 📊 Data Analyst | 🎨 UI/UX Designer | 📱 App Developer
 
 © Copyright ⚖️
