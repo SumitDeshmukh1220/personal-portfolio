@@ -5,19 +5,33 @@
 * The website features a modern dark-themed interface, smooth animations, and an intuitive user experience optimized for all screen sizes.
 
 ✨ Key Highlights 🚀
+
 🌙 Modern dark-themed UI with clean layouts and accent color styling
+
 🧭 Smooth scrolling behavior and engaging hover animations
+
 📱 Fully responsive design optimized for mobile, tablet, and desktop devices
+
 🗂️ Interactive About section with tab-based navigation:
+
 🧠 Skills
+
 💼 Experience
+
 🎓 Education
+
 🎯 Animated service cards with hover effects for better visual engagement
+
 🖼️ Portfolio section with overlay animations for project previews
+
 📩 Functional contact form integrated with Google Sheets
+
 📄 Downloadable CV and quick-access social media links
+
 🧩 Sections Included 🏗️
+
 🏠 Home
+
 Introduction, professional role, and location
 
 👤 About
