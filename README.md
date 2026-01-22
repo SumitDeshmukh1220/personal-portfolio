@@ -1,6 +1,8 @@
 🌐 Personal Portfolio Website
 
-* A fully responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my professional profile as a 📊 Data Analyst, 🎨 UI/UX Designer, and 📱 App Developer. The website features a modern dark-themed interface, smooth animations, and an intuitive user experience optimized for all screen sizes.
+* A fully responsive personal portfolio website built using HTML, CSS, and JavaScript
+* To showcase my professional profile as a 📊 Data Analyst, 🎨 UI/UX Designer, and 📱 App Developer.
+* The website features a modern dark-themed interface, smooth animations, and an intuitive user experience optimized for all screen sizes.
 
 ✨ Key Highlights 🚀
 🌙 Modern dark-themed UI with clean layouts and accent color styling
